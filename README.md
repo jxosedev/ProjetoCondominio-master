@@ -1,11 +1,11 @@
-# Java Web project using Maven repository
+# Projeto da Web Java usando o repositório Maven
 
-###### this is a project made to register the residents of the condominium, the idea is to make the lives of condonimos easier and safer, because when registering on the platform a security password is generated so that the entrance to the condominium have autonomy to recognize who enters and who leaves.
+###### Este é um projeto feito para cadastrar os moradores do condomínio, a ideia é tornar a vida dos condôminos mais fácil e segura, pois ao se cadastrar na plataforma é gerada uma senha de segurança para que os que entram no condomínio tenham autonomia para reconhecer quem entra e quem sai.
 
-* choose an IDE
-1. configure the servers (Toncat or glassfish)
+* Escolha uma IDE
+1. configurar os servidores (Toncat ou glassfish)
 
-###### to work, just clone the repository then enter the repository configure hibernate.cfg.xml to configure your local mysql bank password. next step is to create a database in mysql (create database ordinance;), then run hibernateTeste.ja to create the tables in the bank, to finish run the project.
+###### Para funcionar, basta clonar o repositório e entrar no repositório configure hibernate.cfg.xml para configurar a senha do seu banco mysql local. próximo passo é criar um banco de dados no mysql (criar banco de dados ordinance;), depois executar o hibernateTeste.ja para criar as tabelas no banco, para finalizar execute o projeto.
 ----------------------------------------------------------------------------
 
 **Technologies used** 
